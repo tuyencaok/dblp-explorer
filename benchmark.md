@@ -1,9 +1,11 @@
 Benchmark: show the time and memory consumption of your program
 
-1. Test file name: "test108.txt"
-	file size: 221KB, 108 json objects (8 dummy objects were added for testing purposes)
+1. Test
 	Used memory in megabytes: 4
 	Running time in seconds: 0.443	
+	
+	file name: "test108.txt"
+	file size: 221KB, 108 json objects (8 dummy objects were added for testing purposes)
 	Details of run:
 		Keyword: "policy"
 		n: 3
@@ -12,10 +14,12 @@ Benchmark: show the time and memory consumption of your program
 		# of papers tier 2	      = 3
 		# of papers tier 3	      = 3
 
-2. Test file name: "test12k.txt
-	file size: 26.3MB, 12k json objects
-	Used memory in megabytes: 335
-	Running time in seconds: 6
+2. Test Used memory in megabytes: 335
+	Running time in seconds: 6 
+	
+	
+	file name: "test12k.txt
+	file size: 26.3MB, 12k json objects	
 	Details of run:
 		Keyword: "computer"
 		n: 4
@@ -24,10 +28,12 @@ Benchmark: show the time and memory consumption of your program
 		# of papers tier 2	      = 0
 		# of papers tier 3	      = 0
 
-3. Test file name: "test12k.txt
-	file size: 26.3MB, 12k json objects
-	Used memory in megabytes: 335
+3. Test Used memory in megabytes: 335
 	Running time in seconds: 66
+	
+	file name: "test12k.txt
+	file size: 26.3MB, 12k json objects
+	
 	Details of run:
 		Keyword: "system"
 		n: 5
