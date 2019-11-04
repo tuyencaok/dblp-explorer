@@ -29,7 +29,7 @@ Benchmark: show the time and memory consumption of your program
 		# of papers tier 2	      = 0
 		# of papers tier 3	      = 0
 
-3. Test 2:
+3. Test 3:
 	Used memory in megabytes: 335,
 	Running time in seconds: 66
 	
@@ -41,6 +41,21 @@ Benchmark: show the time and memory consumption of your program
 		n: 5
 		# of papers containing keyword = 1481
 		# of papers tier 1  	      = 25
+		# of papers tier 2	      = 0
+		# of papers tier 3	      = 0
+		# of papers tier 4	      = 0
+4. Test 4:
+	Used memory in megabytes: 335,
+	Running time in seconds: 3
+	
+	file name: "test12k.txt
+	file size: 26.3MB, 12k json objects
+	
+	Details of run:
+		Keyword: "policy"
+		n: 3
+		# of papers containing keyword = 29
+		# of papers tier 1  	      = 1
 		# of papers tier 2	      = 0
 		# of papers tier 3	      = 0
 		# of papers tier 4	      = 0
