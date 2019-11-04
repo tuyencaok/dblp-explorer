@@ -1,7 +1,7 @@
 Benchmark: show the time and memory consumption of your program
 
-1. Test
-	Used memory in megabytes: 4
+1. Test 1: 
+	Used memory in megabytes: 4,
 	Running time in seconds: 0.443	
 	
 	file name: "test108.txt"
@@ -14,7 +14,8 @@ Benchmark: show the time and memory consumption of your program
 		# of papers tier 2	      = 3
 		# of papers tier 3	      = 3
 
-2. Test Used memory in megabytes: 335
+2. Test 2:  
+	Used memory in megabytes: 335,
 	Running time in seconds: 6 
 	
 	
@@ -28,7 +29,8 @@ Benchmark: show the time and memory consumption of your program
 		# of papers tier 2	      = 0
 		# of papers tier 3	      = 0
 
-3. Test Used memory in megabytes: 335
+3. Test 2:
+	Used memory in megabytes: 335,
 	Running time in seconds: 66
 	
 	file name: "test12k.txt
